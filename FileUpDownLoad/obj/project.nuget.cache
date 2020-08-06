@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "oMWt7Y0VhOe9h7iyi6GPFeWEJM5+CQLsocp6YJ+LprJ1PP4RE3umufO5IhnlSNpbfKRPhB/7T7DarWlD2iPjGg==",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\FileHandling\\FileUpDownLoad\\FileUpDownLoad.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Zoli\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

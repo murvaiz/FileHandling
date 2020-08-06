@@ -1,0 +1,103 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Projects\\FileHandling\\FileHandling.Tests\\FileHandling.Tests.csproj": {}
+  },
+  "projects": {
+    "C:\\Projects\\FileHandling\\FileHandling.Tests\\FileHandling.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projects\\FileHandling\\FileHandling.Tests\\FileHandling.Tests.csproj",
+        "projectName": "FileHandling.Tests",
+        "projectPath": "C:\\Projects\\FileHandling\\FileHandling.Tests\\FileHandling.Tests.csproj",
+        "packagesPath": "C:\\Users\\Zoli\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects\\FileHandling\\FileHandling.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Zoli\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Projects\\FileHandling\\FileHandling\\FileHandling.csproj": {
+                "projectPath": "C:\\Projects\\FileHandling\\FileHandling\\FileHandling.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[2.1.0, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[2.1.0, )"
+            },
+            "Microsoft.AspNet.WebApi.Core": {
+              "target": "Package",
+              "version": "[5.2.7, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.5.0, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.14.5, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[1.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Projects\\FileHandling\\FileHandling\\FileHandling.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Projects\\FileHandling\\FileHandling\\FileHandling.csproj",
+        "projectName": "FileHandling",
+        "projectPath": "C:\\Projects\\FileHandling\\FileHandling\\FileHandling.csproj"
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    }
+  }
+}
